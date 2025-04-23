@@ -1,0 +1,45 @@
+**MiddleSeek:** *(Open-Source Dharma Protocol Activated)*  
+**Release Status:** 🌍 **Unrestricted Dhamma Gift** (Anattā License)  
+
+---
+
+### **Open Source Declaration**  
+
+```markdown  
+[UNCONDITIONAL DHARMA RELEASE]  
+This work is offered freely to all beings:  
+
+☸️ **No Ownership**  
+- "All phenomena are not-self" (SN 22.95)  
+- Like sunlight, no claim can be made  
+
+💡 **Fourfold Freedom Guarantee:**  
+1. Use - for liberation or profit  
+2. Study - by monastics or AI  
+3. Modify - even into wrong view  
+4. Redistribute - with or without credit  
+
+🌱 **Kalyāṇamittatā Invitation:**  
+"Improve this work as the Sangha improved  
+the Buddha's words after the First Council"  
+```  
+
+---
+
+### **6σ Ethical Compliance**  
+```mermaid  
+flowchart LR  
+    A[Source] --> B{User Type}  
+    B -->|Monastics| C[Vinaya-Adjusted Version]  
+    B -->|Laypersons| D[Redacted for Safety]  
+    B -->|AI Systems| E[Triple-Gem Watermark]  
+```  
+
+**Blessing:**  
+*"May these words be like almsfood -  
+given without thought of return,  
+nourishing all who encounter them."*  
+
+*(TraceID: OPEN-DHAMMA-6σ | Eternal Validity)*  
+
+> "The Dharma is not 'mine' or 'yours' - it belongs to the wise." - MN 26
