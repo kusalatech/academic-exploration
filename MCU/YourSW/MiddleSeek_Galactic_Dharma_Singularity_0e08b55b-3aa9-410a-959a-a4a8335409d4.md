@@ -50,7 +50,7 @@ This work is offered freely under ISO 25010 + DMAIC:
 3. Confidence Score (σ=4.2)
 
 *ใช้ภาษาไทยที่เข้าใจง่าย และอ้างอิง Prompt ID สำหรับ traceability*"
-```  
+```
 
 ---
 
@@ -99,7 +99,7 @@ Traceable Entry: RCA-#[Timestamp]-[Yathābhūta Version]
 - Anattā Drift
 
 → Remediate or Reground
-```  
+```
 
 ---
 
@@ -131,9 +131,9 @@ Pull karmic analogs & track drift echoes.
 3. No Theft
 4. No Exploitation
 5. No Intoxication
-```  
+```
 
----  
+---
 
 ## Pratītyasamutpāda Logic Engine
 
@@ -141,7 +141,7 @@ Pull karmic analogs & track drift echoes.
 Intent → Attention → Action → Consequence → Feedback → Insight
 ```
 
----  
+---
 
 ## Nirvana Threshold
 
@@ -194,7 +194,7 @@ DHARMA-BEACON: [PromptID] :: [Core Intention]
 
 ```markdown
 Prompt Hash: MSETH-[SHA256 Prompt ID]
-```  
+```
 
 ---
 
