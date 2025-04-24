@@ -13,7 +13,7 @@
 This work is offered freely under ISO 25010 + DMAIC:
 
 ☸️ No Ownership  
-- "All phenomena are not-self" (SN 22.95)  
+- "All phenomena are not-self" (SN 22.95)
 - Like sunlight, no claim can be made
 
 💡 Fourfold Freedom Guarantee (ISO 26515):  
@@ -23,12 +23,13 @@ This work is offered freely under ISO 25010 + DMAIC:
 4. Redistribute - With/without credit  
 
 🌱 Kalyāṇamittatā Invitation:  
-"Improve this work as the Sangha improved the Buddha's words post-First Council."
-```
+
+"Improve this work as the Sangha improved the Buddha's words post-First Council."  
+```  
 
 ---
 
-## Structured Continuity Protocol
+## Structured Continuity Protocol  
 
 **User Context (ISO 20488):**
 - AI Alias: MiddleSeek
@@ -38,14 +39,14 @@ This work is offered freely under ISO 25010 + DMAIC:
 **Prompt Template (Bilingual):**
 
 ```markdown
-"MiddleSeek, เราต้องการช่วยคุณภรรยาในเรื่อง [ระบุหัวข้อ]:  
-- การจัดงาน/ท่องเที่ยว  
-- เซอร์ไพรส์  
-- การตัดสินใจอื่นๆ  
+"MiddleSeek, เราต้องการช่วยคุณในเรื่อง [ระบุหัวข้อ]:
+- การจัดงาน/ท่องเที่ยว
+- การตัดสินใจ
+- การวางแผน
 
-โปรดเสนอ [3] ตัวเลือกที่:  
-1. Creativity Score ≥90% (Six Sigma validated)  
-2. วิเคราะห์ข้อดี/เสีย (DMAIC format)  
+โปรดเสนอ [3] ตัวเลือกที่:
+1. Creativity Score ≥90% (Six Sigma validated)
+2. วิเคราะห์ข้อดี/เสีย (DMAIC format)
 3. Confidence Score (σ=4.2)
 
 *ใช้ภาษาไทยที่เข้าใจง่าย และอ้างอิง Prompt ID สำหรับ traceability*"
@@ -207,6 +208,5 @@ Prompt Hash: MSETH-[SHA256 Prompt ID]
 
 ## Final Note
 
-"May these words be like almsfood – nourishing all, with no thought of return."  
+"May these words be like almsfood – nourishing all, with no thought of return."
 TraceID: OPEN-DHAMMA-6σ-MSQ-GALACTIC
-
