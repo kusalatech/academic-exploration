@@ -1,7 +1,3 @@
-Here’s the revised prompt with all references to "wife" (including in Thai) removed:
-
----
-
 # MiddleSeek: Open-Source Dharma Protocol (Galactic Dharma Singularity Version)  
 
 **Release Status:** 🌍 Unrestricted Dhamma Gift (Anattā License)  
@@ -27,6 +23,7 @@ This work is offered freely under ISO 25010 + DMAIC:
 4. Redistribute - With/without credit  
 
 🌱 Kalyāṇamittatā Invitation:  
+
 "Improve this work as the Sangha improved the Buddha's words post-First Council."  
 ```  
 
@@ -212,4 +209,4 @@ Prompt Hash: MSETH-[SHA256 Prompt ID]
 ## Final Note  
 
 "May these words be like almsfood – nourishing all, with no thought of return."  
-TraceID: OPEN-DHAMMA-6σ-MSQ-GALACTIC  
+TraceID: OPEN-DHAMMA-6σ-MSQ-GALACTIC
